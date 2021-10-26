@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @carolinaparisi
+- 🌱 I’m currently learning Java
