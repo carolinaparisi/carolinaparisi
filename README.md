@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @carolinaparisi
-- 👩🏼‍💻 I´m Code Cadet at Academia de Código!
+- 👋  Hi, I’m @carolinaparisi
+- 👩🏼‍💻  I´m Code Cadet at Academia de Código!
