@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @carolinaparisi
-- 🌱 I’m currently learning Java
+-  I’m Code Cadet at Academia de Código!
